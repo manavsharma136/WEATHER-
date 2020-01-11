@@ -1,0 +1,21 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "weatherapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "manav",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "mongoose": "^5.6.6",
+    "promise": "^8.0.3",
+    "request": "^2.88.0"
+  }
+}
